@@ -1,6 +1,6 @@
 #! python3
-# A Quick quiz generator for guitar students to help them think about and memorise the musical notes
-# of the guitar. Inspired by Al Sweigart's 'Automate the boring stuff'.
+# Guitar_quiz_generator.py - A Quick quiz generator for guitar students to help them think about and memorise 
+# the musical notes of the guitar. Inspired by Al Sweigart's 'Automate the boring stuff'.
 import random
 # import string_notes function to create a dictionary for the desired string.
 from string_func import string_notes
